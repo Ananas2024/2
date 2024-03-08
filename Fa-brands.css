@@ -4,7 +4,7 @@ body{
   display: flex;
   margin: 0;
   background-color: #ccc;
-  background: #ccc url(cascad.jpeg)  no-repeat center  ;
+/*  background: #ccc url(cascad.jpeg)  no-repeat center  ;*/
   height: -1vh;
   background-size: cover;
   justify-content: center;
