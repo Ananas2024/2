@@ -1,9 +1,10 @@
 body{
-  height: 100vh;
+  height: 90vh;
+  width: 188vh;
   display: flex;
   margin: 0;
   background-color: #ccc;
-  background: #ccc url(cascad.jpeg) no-repeat center  ;
+  background: #ccc url(cascad.jpeg)  no-repeat center  ;
   height: -1vh;
   background-size: cover;
   justify-content: center;
@@ -11,11 +12,16 @@ body{
 }
 .a{position: relative;
   bottom: -250px;
+  right: -50px;
 
+}
+.a1{position: relative;
+  bottom: -250px;
+  left: -50px;
 }
 .b{
   position: relative;
-  top: -270px;
+  top: -240px;
 }
 ul{
   font-family: 'Roboto Condesend', sans-serif;
